@@ -1,0 +1,253 @@
+08/27/20 10:45:43 PM: INFO: *******************Test_003_AddCustomer*********
+08/27/20 10:46:01 PM: INFO: *****************login successful************
+08/27/20 10:46:01 PM: INFO: ***************start adding customer test**********
+08/27/20 11:20:53 PM: INFO: *******************Test_003_AddCustomer*********
+08/27/20 11:21:08 PM: INFO: *****************login successful************
+08/27/20 11:21:08 PM: INFO: ***************start adding customer test**********
+08/27/20 11:26:40 PM: INFO: *******************Test_003_AddCustomer*********
+08/27/20 11:26:55 PM: INFO: *****************login successful************
+08/27/20 11:26:55 PM: INFO: ***************start adding customer test**********
+08/27/20 11:28:07 PM: INFO: *******************Test_003_AddCustomer*********
+08/27/20 11:28:22 PM: INFO: *****************login successful************
+08/27/20 11:28:22 PM: INFO: ***************start adding customer test**********
+08/27/20 11:28:31 PM: INFO: **********providing customer info*************
+08/27/20 11:40:51 PM: INFO: *******************Test_003_AddCustomer*********
+08/27/20 11:41:12 PM: INFO: *****************login successful************
+08/27/20 11:41:12 PM: INFO: ***************start adding customer test**********
+08/27/20 11:41:25 PM: INFO: **********providing customer info*************
+08/28/20 12:19:20 AM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 12:19:39 AM: INFO: *****************login successful************
+08/28/20 12:19:39 AM: INFO: ***************start adding customer test**********
+08/28/20 12:19:51 AM: INFO: **********providing customer info*************
+08/28/20 12:20:50 AM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 12:21:25 AM: INFO: *****************login successful************
+08/28/20 12:21:25 AM: INFO: ***************start adding customer test**********
+08/28/20 12:21:38 AM: INFO: **********providing customer info*************
+08/28/20 12:24:12 AM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 12:24:54 AM: INFO: *****************login successful************
+08/28/20 12:24:54 AM: INFO: ***************start adding customer test**********
+08/28/20 12:25:06 AM: INFO: **********providing customer info*************
+08/28/20 12:27:26 AM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 12:27:42 AM: INFO: *****************login successful************
+08/28/20 12:27:42 AM: INFO: ***************start adding customer test**********
+08/28/20 12:27:52 AM: INFO: **********providing customer info*************
+08/28/20 12:27:57 AM: INFO: ***************saving customer info*******************
+08/28/20 12:27:57 AM: INFO: ***********add customer validation started************
+08/28/20 12:27:58 AM: ERROR: *******add customer test failed*****************
+08/28/20 12:29:02 AM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 12:29:17 AM: INFO: *****************login successful************
+08/28/20 12:29:17 AM: INFO: ***************start adding customer test**********
+08/28/20 12:29:26 AM: INFO: **********providing customer info*************
+08/28/20 12:29:32 AM: INFO: ***************saving customer info*******************
+08/28/20 12:29:32 AM: INFO: ***********add customer validation started************
+08/28/20 12:29:33 AM: INFO: *****add customer passed************
+08/28/20 12:29:33 AM: INFO: *************Ending Test_003_AddCustomer**********************
+08/28/20 12:30:10 AM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 12:30:24 AM: INFO: *****************login successful************
+08/28/20 12:30:24 AM: INFO: ***************start adding customer test**********
+08/28/20 12:30:31 AM: INFO: **********providing customer info*************
+08/28/20 12:30:36 AM: INFO: ***************saving customer info*******************
+08/28/20 12:30:36 AM: INFO: ***********add customer validation started************
+08/28/20 12:30:38 AM: INFO: *****add customer passed************
+08/28/20 12:30:38 AM: INFO: *************Ending Test_003_AddCustomer**********************
+08/28/20 11:05:18 AM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 11:05:35 AM: INFO: *****************login successful************
+08/28/20 11:05:35 AM: INFO: ***************start adding customer test**********
+08/28/20 11:05:50 AM: INFO: **********providing customer info*************
+08/28/20 11:05:58 AM: INFO: ***************saving customer info*******************
+08/28/20 11:05:58 AM: INFO: ***********add customer validation started************
+08/28/20 11:05:59 AM: INFO: *****add customer passed************
+08/28/20 11:05:59 AM: INFO: *************Ending Test_003_AddCustomer**********************
+08/28/20 11:09:38 AM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 11:09:55 AM: INFO: *****************login successful************
+08/28/20 11:09:55 AM: INFO: ***************start adding customer test**********
+08/28/20 11:10:07 AM: INFO: **********providing customer info*************
+08/28/20 12:00:45 PM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 12:01:05 PM: INFO: *****************login successful************
+08/28/20 12:01:05 PM: INFO: ***************start adding customer test**********
+08/28/20 12:01:15 PM: INFO: **********providing customer info*************
+08/28/20 01:17:22 PM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 01:17:41 PM: INFO: *****************login successful************
+08/28/20 01:17:41 PM: INFO: ***************start adding customer test**********
+08/28/20 01:17:57 PM: INFO: **********providing customer info*************
+08/28/20 01:27:42 PM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 01:28:18 PM: INFO: *****************login successful************
+08/28/20 01:28:18 PM: INFO: ***************start adding customer test**********
+08/28/20 01:28:29 PM: INFO: **********providing customer info*************
+08/28/20 01:38:20 PM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 01:38:38 PM: INFO: *****************login successful************
+08/28/20 01:38:38 PM: INFO: ***************start adding customer test**********
+08/28/20 01:38:46 PM: INFO: **********providing customer info*************
+08/28/20 01:40:10 PM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 01:40:26 PM: INFO: *****************login successful************
+08/28/20 01:40:26 PM: INFO: ***************start adding customer test**********
+08/28/20 01:40:33 PM: INFO: **********providing customer info*************
+08/28/20 01:40:54 PM: INFO: ***************saving customer info*******************
+08/28/20 01:40:54 PM: INFO: ***********add customer validation started************
+08/28/20 01:40:55 PM: INFO: *****add customer passed************
+08/28/20 01:40:57 PM: INFO: *************Ending Test_003_AddCustomer**********************
+08/28/20 01:44:57 PM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 01:45:11 PM: INFO: *****************login successful************
+08/28/20 01:45:11 PM: INFO: ***************start adding customer test**********
+08/28/20 01:45:19 PM: INFO: **********providing customer info*************
+08/28/20 01:45:31 PM: INFO: ***************saving customer info*******************
+08/28/20 01:45:31 PM: INFO: ***********add customer validation started************
+08/28/20 01:45:33 PM: ERROR: *******add customer test failed*****************
+08/28/20 02:07:06 PM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 02:07:26 PM: INFO: *****************login successful************
+08/28/20 02:07:26 PM: INFO: ***************start adding customer test**********
+08/28/20 02:07:38 PM: INFO: **********providing customer info*************
+08/28/20 02:07:54 PM: INFO: ***************saving customer info*******************
+08/28/20 02:07:54 PM: INFO: ***********add customer validation started************
+08/28/20 02:07:55 PM: ERROR: *******add customer test failed*****************
+08/28/20 02:13:08 PM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 02:13:26 PM: INFO: *****************login successful************
+08/28/20 02:13:26 PM: INFO: ***************start adding customer test**********
+08/28/20 02:13:39 PM: INFO: **********providing customer info*************
+08/28/20 02:13:55 PM: INFO: ***************saving customer info*******************
+08/28/20 02:13:55 PM: INFO: ***********add customer validation started************
+08/28/20 02:13:56 PM: INFO: *****add customer passed************
+08/28/20 02:14:04 PM: INFO: *************Ending Test_003_AddCustomer**********************
+08/28/20 03:33:57 PM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 03:34:10 PM: INFO: *****************login successful************
+08/28/20 03:34:10 PM: INFO: ***************start adding customer test**********
+08/28/20 03:34:19 PM: INFO: **********providing customer info*************
+08/28/20 03:34:32 PM: INFO: ***************saving customer info*******************
+08/28/20 03:34:32 PM: INFO: ***********add customer validation started************
+08/28/20 03:34:33 PM: INFO: *****add customer passed************
+08/28/20 03:34:35 PM: INFO: *************Ending Test_003_AddCustomer**********************
+08/28/20 03:35:49 PM: INFO: *******************Test_003_AddCustomer*********
+08/28/20 03:36:02 PM: INFO: *****************login successful************
+08/28/20 03:36:02 PM: INFO: ***************start adding customer test**********
+08/28/20 03:36:10 PM: INFO: **********providing customer info*************
+08/28/20 03:36:28 PM: INFO: ***************saving customer info*******************
+08/28/20 03:36:28 PM: INFO: ***********add customer validation started************
+08/28/20 03:36:29 PM: INFO: *****add customer passed************
+08/28/20 03:36:31 PM: INFO: *************Ending Test_003_AddCustomer**********************
+09/01/20 05:03:53 PM: INFO: *******************Test_004_SearchCustomer*********
+09/01/20 05:04:18 PM: INFO: *****************login successful************
+09/01/20 05:04:18 PM: INFO: ***************start search customer by email**********
+09/01/20 05:04:28 PM: INFO: **********searching by customer email id*************
+09/01/20 05:18:06 PM: INFO: *******************Test_004_SearchCustomer*********
+09/01/20 05:18:23 PM: INFO: *****************login successful************
+09/01/20 05:18:23 PM: INFO: ***************start search customer by email**********
+09/01/20 05:18:30 PM: INFO: **********searching by customer email id*************
+09/01/20 05:19:48 PM: INFO: *******************Test_004_SearchCustomer*********
+09/01/20 05:20:21 PM: INFO: *****************login successful************
+09/01/20 05:20:21 PM: INFO: ***************start search customer by email**********
+09/01/20 05:20:48 PM: INFO: *******************Test_004_SearchCustomer*********
+09/01/20 05:21:06 PM: INFO: *****************login successful************
+09/01/20 05:21:06 PM: INFO: ***************start search customer by email**********
+09/01/20 05:21:14 PM: INFO: **********searching by customer email id*************
+09/01/20 05:29:57 PM: INFO: *******************Test_004_SearchCustomer*********
+09/01/20 05:30:15 PM: INFO: *****************login successful************
+09/01/20 05:30:15 PM: INFO: ***************start search customer by email**********
+09/01/20 05:30:20 PM: INFO: **********searching by customer email id*************
+09/01/20 05:31:34 PM: INFO: *******************Test_004_SearchCustomer*********
+09/01/20 05:31:49 PM: INFO: *****************login successful************
+09/01/20 05:31:49 PM: INFO: ***************start search customer by email**********
+09/01/20 05:31:52 PM: INFO: **********searching by customer email id*************
+09/01/20 09:28:43 PM: INFO: *******************Test_004_SearchCustomer*********
+09/01/20 09:29:03 PM: INFO: *****************login successful************
+09/01/20 09:29:03 PM: INFO: ***************start search customer by email**********
+09/01/20 09:29:12 PM: INFO: **********searching by customer email id*************
+09/01/20 09:29:18 PM: INFO: *************Ending Test_004_SearchCustomerByEmail**********************
+09/01/20 09:33:38 PM: INFO: *******************Test_004_SearchCustomer*********
+09/01/20 09:33:53 PM: INFO: *****************login successful************
+09/01/20 09:33:53 PM: INFO: ***************start search customer by email**********
+09/01/20 09:33:58 PM: INFO: **********searching by customer email id*************
+09/01/20 09:34:04 PM: INFO: *************Ending Test_004_SearchCustomerByEmail**********************
+09/01/20 10:19:09 PM: INFO: *******************Test_004_SearchCustomer*********
+09/01/20 10:19:28 PM: INFO: *****************login successful************
+09/01/20 10:19:28 PM: INFO: ***************start search customer by name**********
+09/01/20 10:19:33 PM: INFO: **********searching by customer name*************
+09/01/20 10:19:41 PM: INFO: *************Ending Test_004_SearchCustomerByName**********************
+09/01/20 10:20:01 PM: INFO: *******************Test_004_SearchCustomer*********
+09/01/20 10:20:17 PM: INFO: *****************login successful************
+09/01/20 10:20:17 PM: INFO: ***************start search customer by name**********
+09/01/20 10:20:20 PM: INFO: **********searching by customer name*************
+09/01/20 10:20:26 PM: INFO: *************Ending Test_004_SearchCustomerByName**********************
+09/03/20 10:51:27 PM: INFO: *******************verifying login Page*********
+09/03/20 10:51:59 PM: INFO: *****************login test is passed*************
+09/03/20 10:52:05 PM: INFO: *******************Test_003_AddCustomer*********
+09/03/20 10:52:34 PM: INFO: *****************login successful************
+09/03/20 10:52:34 PM: INFO: ***************start adding customer test**********
+09/03/20 10:52:45 PM: INFO: **********providing customer info*************
+09/03/20 10:53:07 PM: INFO: ***************saving customer info*******************
+09/03/20 10:53:07 PM: INFO: ***********add customer validation started************
+09/03/20 10:53:09 PM: INFO: *****add customer passed************
+09/03/20 10:53:10 PM: INFO: *************Ending Test_003_AddCustomer**********************
+09/04/20 12:45:25 PM: INFO: *******************verifying login Page*********
+09/04/20 12:45:55 PM: INFO: *****************login test is passed*************
+09/04/20 12:46:06 PM: INFO: *******************Test_003_AddCustomer*********
+09/04/20 12:46:32 PM: INFO: *****************login successful************
+09/04/20 12:46:32 PM: INFO: ***************start adding customer test**********
+09/04/20 12:46:41 PM: INFO: **********providing customer info*************
+09/04/20 12:47:03 PM: INFO: ***************saving customer info*******************
+09/04/20 12:47:03 PM: INFO: ***********add customer validation started************
+09/04/20 12:47:05 PM: INFO: *****add customer passed************
+09/04/20 12:47:09 PM: INFO: *************Ending Test_003_AddCustomer**********************
+09/04/20 08:20:18 PM: INFO: *********************Test_001_Login***********************
+09/04/20 08:20:18 PM: INFO: ********************Verifying Home Page Title*************
+09/04/20 08:20:26 PM: ERROR: *******************home_page_title is failed*********
+09/04/20 08:20:33 PM: INFO: *******************verifying login Page*********
+09/04/20 08:21:10 PM: INFO: *****************login test is passed*************
+09/04/20 08:21:17 PM: INFO: *********************Test_002_DDT_Login***********************
+09/04/20 08:21:17 PM: INFO: *******************verifying login Page*********
+09/04/20 08:21:52 PM: INFO: ******passed_1*********
+09/04/20 08:22:12 PM: INFO: ******passed_1*********
+09/04/20 08:22:28 PM: INFO: ******passed_1*********
+09/04/20 08:22:39 PM: INFO: *****passed_2******
+09/04/20 08:22:39 PM: INFO: ***********passed_3*************
+09/04/20 08:22:45 PM: INFO: ***************END OF DATA DRIVEN TESTING**********
+09/04/20 08:22:45 PM: INFO: *************end of tc002************
+09/04/20 08:22:50 PM: INFO: *******************Test_003_AddCustomer*********
+09/04/20 08:23:20 PM: INFO: *****************login successful************
+09/04/20 08:23:20 PM: INFO: ***************start adding customer test**********
+09/04/20 08:23:32 PM: INFO: **********providing customer info*************
+09/04/20 08:23:55 PM: INFO: ***************saving customer info*******************
+09/04/20 08:23:55 PM: INFO: ***********add customer validation started************
+09/04/20 08:23:57 PM: INFO: *****add customer passed************
+09/04/20 08:23:59 PM: INFO: *************Ending Test_003_AddCustomer**********************
+09/04/20 08:24:02 PM: INFO: *******************Test_004_SearchCustomer*********
+09/04/20 08:24:14 PM: INFO: *****************login successful************
+09/04/20 08:24:14 PM: INFO: ***************start search customer by email**********
+09/04/20 08:24:21 PM: INFO: **********searching by customer email id*************
+09/04/20 08:24:30 PM: INFO: *************Ending Test_004_SearchCustomerByEmail**********************
+09/04/20 08:24:33 PM: INFO: *******************Test_004_SearchCustomer*********
+09/04/20 08:24:55 PM: INFO: *****************login successful************
+09/04/20 08:24:55 PM: INFO: ***************start search customer by name**********
+09/04/20 08:25:07 PM: INFO: **********searching by customer name*************
+09/04/20 08:25:13 PM: INFO: *************Ending Test_004_SearchCustomerByName**********************
+09/04/20 08:36:53 PM: INFO: *******************verifying login Page*********
+09/04/20 08:37:10 PM: INFO: *****************login test is passed*************
+09/04/20 08:37:14 PM: INFO: *******************Test_003_AddCustomer*********
+09/04/20 08:37:30 PM: INFO: *****************login successful************
+09/04/20 08:37:30 PM: INFO: ***************start adding customer test**********
+09/04/20 08:37:38 PM: INFO: **********providing customer info*************
+09/04/20 08:37:57 PM: INFO: ***************saving customer info*******************
+09/04/20 08:37:57 PM: INFO: ***********add customer validation started************
+09/04/20 08:37:59 PM: INFO: *****add customer passed************
+09/04/20 08:37:59 PM: INFO: *************Ending Test_003_AddCustomer**********************
+09/04/20 08:38:55 PM: INFO: *******************verifying login Page*********
+09/04/20 08:39:09 PM: INFO: *****************login test is passed*************
+09/04/20 08:39:34 PM: INFO: *******************Test_003_AddCustomer*********
+09/04/20 08:39:48 PM: INFO: *****************login successful************
+09/04/20 08:39:48 PM: INFO: ***************start adding customer test**********
+09/04/20 08:39:55 PM: INFO: **********providing customer info*************
+09/04/20 08:45:03 PM: INFO: *******************verifying login Page*********
+09/04/20 08:45:24 PM: INFO: *****************login test is passed*************
+09/04/20 08:45:28 PM: INFO: *******************Test_003_AddCustomer*********
+09/04/20 08:45:44 PM: INFO: *****************login successful************
+09/04/20 08:45:44 PM: INFO: ***************start adding customer test**********
+09/04/20 08:45:56 PM: INFO: **********providing customer info*************
+09/04/20 08:46:14 PM: INFO: ***************saving customer info*******************
+09/04/20 08:46:14 PM: INFO: ***********add customer validation started************
+09/04/20 08:46:15 PM: INFO: *****add customer passed************
+09/04/20 08:46:15 PM: INFO: *************Ending Test_003_AddCustomer**********************
+09/04/20 08:46:31 PM: INFO: *******************verifying login Page*********
+09/04/20 08:46:54 PM: INFO: *****************login test is passed*************
+09/04/20 08:47:44 PM: INFO: *******************Test_003_AddCustomer*********
+09/04/20 08:48:04 PM: INFO: *****************login successful************
+09/04/20 08:48:04 PM: INFO: ***************start adding customer test**********
+09/04/20 08:48:10 PM: INFO: **********providing customer info*************

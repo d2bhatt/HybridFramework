@@ -1,0 +1,11 @@
+        if "fail" not in list_status:
+            self.logger.info("***********passed_3*************")
+            self.driver.close()
+            assert True
+        else:
+            self.logger.info("*****failed_3***********")
+            self.driver.close()
+            assert False
+
+        self.logger.info("***************END OF DATA DRIVEN TESTING**********")
+        self.logger.info("*************end of tc002************")

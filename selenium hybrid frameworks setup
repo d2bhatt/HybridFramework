@@ -1,0 +1,28 @@
+                            selenium hybrid frameworks
+technology we will use :-(selenium with python, pytest , page object model approach, generate html report)
+
+step1:- create new projects & install required packages/plugins--
+1)selenium:--selenium libraries
+2)pytest:- python unittest framework
+3)pytest-html:pytest html reports
+4)pytest-xdist:-run tests parallel
+5)openpyxl:-msexcel support
+6) allure pytest:-to generate allure reports
+
+step 2:- create folder structure:-
+
+                       project name
+
+                       page objects (package)
+                       testcases(package)
+                       utilities(package)
+
+                       testdata (folder)
+                       configurations(folder)
+                       logs(folder)
+                       screenshots(folder)
+                       reports(folder)
+
+
+
+

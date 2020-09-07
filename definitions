@@ -1,0 +1,20 @@
+selenium hybrid framework:-(python,selenium,pytest,pageobjectmodel,html reports)
+#  what is framework?:- framework is an organised way of maintaining automation files. In the framework all the
+#  files will communicate with each other to perform certain tasks. Page object will be one folder ,test cases
+# objective/goals:-1)reusability:- so like utility files used in one test case can be used for another
+# 2)maintainability:-  so you can easily add something new test case or utility file you can easily add or if you hand
+# it to someone they can easily understand.
+# TYpes of frameworks:-1)built in frameworks:-pytest,robotframework,unittest--these frameworks are already available
+# in market, selenium will just identify the element and perform the action but on top of it we need to do lot of things
+# so we need to integrate some built framework into our project
+# 2)customized/user defined framework:- datadriven framework, keyword driven framework,hybrid driven framework
+
+phases of automation:-
+
+1) analyze application, which technology, skill set of team, choose test cases:-regression test cases, test data
+2) design & implement framework
+3)execution
+4)maintainence(version control system):- as soon as piece of code is written it should be checked in through github
+
+
+questions:- difference b/w parameter and aruments,what is module
